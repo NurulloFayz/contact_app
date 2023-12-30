@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "646576887838",
+    "firebase_url": "https://blogg-cad6b-default-rtdb.firebaseio.com",
+    "project_id": "blogg-cad6b",
+    "storage_bucket": "blogg-cad6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646576887838:android:c6ce3f83cca1aecb04360f",
+        "android_client_info": {
+          "package_name": "com.example.contact_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDppurZcYURg6ELDuyGlGa0D5eR47Tu0-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
